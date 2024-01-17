@@ -7,6 +7,6 @@ In this project, I would be analyzing AirBnB listing dataset specifically in Dal
 1. How do we make accurate decisions on the best approach to take, in order to create sucessful AirBnB listings? 
 My strategy includes:
 
-i.  Make a list of the top ten most sucessful host, and analyze their overal revenue.
-ii. Analyzing Districts and areas with the higest turn out.
-iii.Identify the most popular accomodation category.
+-  Make a list of the top ten most sucessful host, and analyze their overal revenue.
+-  Analyzing Districts and areas with the higest turn out.
+-   dentify the most popular accomodation category.
