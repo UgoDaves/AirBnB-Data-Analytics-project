@@ -4,4 +4,8 @@ As part of a strategic initiative, a valued client within the real estate sector
 In this project, I would be analyzing AirBnB listing dataset specifically in Dallas, Texas area to gain date driven insight, on basically the factors that may contribute to having a successful AirBnB listing.
 
 ## Ask Phase
-1. How do we make decisions on the best approach to take in order to create sucessful AirBnB listings? 
+1. How do we make accurate decisions on the best approach to take, in order to create sucessful AirBnB listings? 
+My strategy includes:
+ i.  Make a list of the top ten most sucessful host, and analyze their overal revenue.
+ ii.  Analyzing Districts and areas with the higest turn out.
+ iii. Identify the most popular accomodation category.
