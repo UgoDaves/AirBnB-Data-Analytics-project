@@ -56,8 +56,8 @@ reviews_per_month NUMERIC (3,2),
 host_listings_count INT,
 availability_365 INT,
 num_of_reviews_lmt INT
-)
+);
 
 ALTER TABLE airbnb
-DROP COLUMN id
+DROP COLUMN id;
 ```
