@@ -18,22 +18,22 @@ The dataset used for this project can be found [here](http://insideairbnb.com/ge
 
 ## Process Phase
 1. Documentation of any cleaning or manipulation of Data.
-### Import Data into Power Query:
+#### Import Data into Power Query:
 Utilized Power Query to import the raw dataset, providing a structured environment for subsequent data cleaning.
 
-### Remove Unnecessary Columns:
+#### Remove Unnecessary Columns:
 - Identified and deleted the "neighbourhood" "id" and "license" columns, as they were deemed irrelevant for the analysis.
   
-### Separate Combined Columns:
+#### Separate Combined Columns:
 - Addressed data quality by breaking down information that was originally combined in a single column. Specifically, separated the "rating," "number of beds," "bedrooms," and "baths" into distinct columns for improved clarity and analysis.
   
-### Remove Empty Columns:
+#### Remove Empty Columns:
 - Identified and removed any empty or redundant columns to streamline the dataset.
   
-### Text Reduction for SQL Analysis:
+#### Text Reduction for SQL Analysis:
 - Recognizing the importance of efficient SQL analysis, reduced the length of text within the dataset to enhance readability and simplify queries.
 
-### Imported data into Postgresql
+#### Imported data into Postgresql
 ``` sql
 CREATE TABLE airbnb (
 id BIGINT,
