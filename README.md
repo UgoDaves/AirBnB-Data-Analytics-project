@@ -57,4 +57,7 @@ host_listings_count INT,
 availability_365 INT,
 num_of_reviews_lmt INT
 )
+
+ALTER TABLE airbnb
+DROP COLUMN id
 ```
