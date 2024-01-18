@@ -15,3 +15,5 @@ My strategy includes:
 The dataset used for this project can be found [here](http://insideairbnb.com/get-the-data/), a website called 'Inside Airbnb' a third-party public data-source. It consists of 18 columns ranging from the listing ID to license. Since it does not include the demograpic details of hosts, it is hard to determine of there are any bias. The dataset policy can be accessed [here](http://insideairbnb.com/data-policies)
 
 <u>Import data into Excel & PowerQuery</u>
+<img width="719" alt="Capture" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/49fe0669-4ff9-4f16-b9e0-b3de2bf77353">
+
