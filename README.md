@@ -33,6 +33,7 @@ Utilized Power Query to import the raw dataset, providing a structured environme
 ### Text Reduction for SQL Analysis:
 - Recognizing the importance of efficient SQL analysis, reduced the length of text within the dataset to enhance readability and simplify queries.
 
+### Imported data into Postgresql
 ```CREATE TABLE airbnb (
 id BIGINT,
 host_id BIGINT,
