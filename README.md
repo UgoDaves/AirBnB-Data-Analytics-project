@@ -14,10 +14,13 @@ My strategy includes:
 1. Discription of all datasources used:
 The dataset used for this project can be found [here](http://insideairbnb.com/get-the-data/), a website called 'Inside Airbnb' a third-party public data-source. It consists of 18 columns ranging from the listing ID to license. Since it does not include the demograpic details of hosts, it is hard to determine of there are any bias. The dataset policy can be accessed [here](http://insideairbnb.com/data-policies)
 
-An image of what dataset look like after importing into Excel and before cleaning.
-<img width="719" alt="Capture" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/49fe0669-4ff9-4f16-b9e0-b3de2bf77353">
+
 
 ## Process Phase
 1. Documentation of any cleaning or manipulation of Data.
 In this phase, I would use Microsoft Excel and PowerQuery to perform data cleaning.
  - I imported the data into PoweQuery
+ - I deleted the neighbourhood and license column.
+ - I seperated the rating, number of beds, bedroom and baths, since they were all in one column.
+ - I deleted empty columns.
+ - I reduced the number of texts in the dataset for easy analysis in SQL.
