@@ -4,27 +4,34 @@ As part of a strategic initiative, a valued client within the real estate sector
 In this project, I would be analyzing AirBnB listing dataset specifically in Dallas, Texas area to gain date driven insight, on basically the factors that may contribute to having a successful AirBnB listing.
 
 ## Ask Phase
-1. How do we make accurate decisions on the best approach to take, in order to create successful AirBnB listings? 
+1. How do we make accurate decisions on the best approach to take in order to create successful AirBnB listings? 
 My strategy includes:
 -  Make a list of the top ten most successful hosts, and analyze their overal revenue.
 -  Analyzing Districts and areas with the higest turn out.
--   dentify the most popular accomodation category.
+-  Identify the most popular accomodation category.
 
 ## Prepare Phase
 1. Discription of all datasources used:
-The dataset used for this project can be found [here](http://insideairbnb.com/get-the-data/), a website called 'Inside Airbnb' a third-party public data-source. It consists of 18 columns ranging from the listing ID to license. Since it does not include the demograpic details of hosts, it is hard to determine of there are any bias. The dataset policy can be accessed [here](http://insideairbnb.com/data-policies)
+The dataset used for this project can be found [here](http://insideairbnb.com/get-the-data/), a website called 'Inside Airbnb' a third-party public data-source. It consists of 18 columns ranging from the listing ID to license. Since it does not include the demograpic details of hosts, it is hard to determine if it consists of any bias. The dataset policy can be accessed [here](http://insideairbnb.com/data-policies)
 
 
 
 ## Process Phase
 1. Documentation of any cleaning or manipulation of Data.
-In this phase, I would use Microsoft Excel and PowerQuery to perform data cleaning.
- - I imported the data into PoweQuery
- - I deleted the neighbourhood and license column.
- - I seperated the rating, number of beds, bedroom and baths, since they were all in one column.
- - I deleted empty columns.
- - I reduced the number of texts in the dataset for easy analysis in SQL.
+### Import Data into Power Query:
+Utilized Power Query to import the raw dataset, providing a structured environment for subsequent data cleaning.
 
+### Remove Unnecessary Columns:
+- Identified and deleted the "neighbourhood" "id" and "license" columns, as they were deemed irrelevant for the analysis.
+  
+### Separate Combined Columns:
+- Addressed data quality by breaking down information that was originally combined in a single column. Specifically, separated the "rating," "number of beds," "bedrooms," and "baths" into distinct columns for improved clarity and analysis.
+  
+### Remove Empty Columns:
+- Identified and removed any empty or redundant columns to streamline the dataset.
+  
+### Text Reduction for SQL Analysis:
+- Recognizing the importance of efficient SQL analysis, reduced the length of text within the dataset to enhance readability and simplify queries.
 
 ```CREATE TABLE airbnb (
 id BIGINT,
