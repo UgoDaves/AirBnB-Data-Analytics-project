@@ -75,7 +75,7 @@ FROM airbnb;
 SELECT COUNT(DISTINCT(host_name))
 FROM airbnb;
 
--- The top twenty listings with the potential highest revenue are 
+-- The top ten listings with the potential highest revenue are 
 SELECT COUNT(host_id) AS num_of_listings,
 host_id, 
 host_name,
@@ -83,10 +83,10 @@ SUM(price*min_nights) AS rev_per_booking
 FROM airbnb
 GROUP BY 2,3
 ORDER BY rev_per_booking DESC
-LIMIT 20
+LIMIT 10
 
 /*Listing type, accomodation type, bedroom, beds, baths, 
-District and locations of where the listings are located, of top 20. */
+District and locations of where the listings are located, of top 10. */
 SELECT host_id, host_name,
 accomodation_type,listing_type,
 bedrooms,
