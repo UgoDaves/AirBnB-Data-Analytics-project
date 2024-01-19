@@ -17,7 +17,7 @@ The dataset used for this project can be found [here](http://insideairbnb.com/ge
 
 
 ## Process Phase
-1. Documentation of any cleaning or manipulation of Data.
+Documentation of any cleaning or manipulation of Data.
 #### Import Data into Power Query:
 Utilized Power Query to import the raw dataset, providing a structured environment for subsequent data cleaning.
 
@@ -61,3 +61,18 @@ num_of_reviews_lmt INT
 ALTER TABLE airbnb
 DROP COLUMN id;
 ```
+## Analyze Phase
+A summary of my analysis
+```sql
+-- In this dataset, we have a total of 4,255 hosts
+SELECT COUNT(host_id) AS total_hosts
+FROM airbnb;
+
+--The number of distinct host that made a listings is 1,965
+SELECT COUNT(DISTINCT(host_id))
+FROM airbnb;
+
+SELECT COUNT(DISTINCT(host_name))
+FROM airbnb;
+```
+
