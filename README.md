@@ -64,11 +64,11 @@ DROP COLUMN id;
 ## Analyze Phase
 A summary of my analysis
 ```sql
--- In this dataset, we have a total of 4,255 hosts
+--1) In this dataset, we have a total of 4,255 hosts
 SELECT COUNT(host_id) AS total_hosts
 FROM airbnb;
 
---The number of distinct host that made a listings is 1,965
+--2) The number of distinct hosts that made a listings is 1,965
 SELECT COUNT(DISTINCT(host_id))
 FROM airbnb;
 
