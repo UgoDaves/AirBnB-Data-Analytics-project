@@ -64,18 +64,23 @@ DROP COLUMN id;
 ## Analyze Phase
 A summary of my analysis
 ```sql
---1) In this dataset, we have a total of 4,255 hosts
+-- In this dataset, we have a total of 4,255 hosts
 SELECT COUNT(host_id) AS total_hosts
 FROM airbnb;
 
---2) The number of distinct hosts that made a listings is 1,965
+-- The number of distinct hosts that made a listings is 1,965
 SELECT COUNT(DISTINCT(host_id))
 FROM airbnb;
 
 SELECT COUNT(DISTINCT(host_name))
 FROM airbnb;
 
---3) The top ten listings with the potential highest revenue are 
+--Number of Districts(1-14)
+SELECT DISTINCT district
+from airbnb
+ORDER BY 1
+
+-- The top ten listings with the potential highest revenue are 
 SELECT COUNT(host_id) AS num_of_listings,
 host_id, 
 host_name,
@@ -85,7 +90,7 @@ GROUP BY 2,3
 ORDER BY rev_per_booking DESC
 LIMIT 10;
 
-/*4) Listing type, accomodation type, bedroom, beds, baths, 
+/* Listing type, accomodation type, bedroom, beds, baths, 
 District and locations of where the listings are located, of top 10. */
 SELECT host_id,
 host_name,
