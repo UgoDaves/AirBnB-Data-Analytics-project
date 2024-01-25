@@ -62,7 +62,7 @@ ALTER TABLE airbnb
 DROP COLUMN id;
 ```
 #### Imported results from SQL queries into Power Bi
-- Create drelationships for proper visual analysis
+- Established data model by creating relationships for proper visual analysis
 <img width="737" alt="datamodel" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/894b17d5-f3d8-47b4-8c52-bd6f7ff3bb81">
 
 
