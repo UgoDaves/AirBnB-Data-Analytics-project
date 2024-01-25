@@ -110,6 +110,7 @@ WHERE host_id IN (108514926,112593570,104309976,211225279,329464978,471536148,30
 - In the absence of revenue information within the dataset, I derived an estimate by calculating the product of the minimum stay duration and the corresponding price. This method allowed me to approximate the potential revenue associated with each listing. This is the list of the top ten highest earners by revenue.
 <img width="438" alt="revbyhost" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/1169507d-0592-459d-8d5d-6ead78580c31">
 
+
 - I analyzed the average number of bedrooms, beds and baths of the top ten highest earners.
 <img width="481" alt="avg_bed_baths" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/77226d07-679d-453d-bc30-699a33c2b5f2">
 
