@@ -129,8 +129,9 @@ This is a map containing listings of all ten hosts.
 
 
 ### Summary:
-- The listing types consists of: Condos, Homes, Rental units, serviced apartments and Townhouses. The most popular with 270 listings is rental units. of which 138 where made by Dalls
-  <img width="523" alt="listing_type" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/e5f1b54e-548d-404d-8b2e-d388663998f1">
+- The listing types consists of: Condos, Homes, Rental units, serviced apartments and Townhouses. The most popular with 270 listings is rental units. Of which 138 where made by Dalls.
+
+<img width="523" alt="listing_type" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/e5f1b54e-548d-404d-8b2e-d388663998f1">
 <img width="519" alt="dalls_listingtype" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/971c05b2-7943-4859-be40-ae15c86455de">
 
 
