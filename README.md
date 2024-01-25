@@ -133,7 +133,7 @@ This is a map containing listings of all ten hosts.
 
 <img width="523" alt="listing_type" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/e5f1b54e-548d-404d-8b2e-d388663998f1"> <img width="519" alt="dalls_listingtype" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/971c05b2-7943-4859-be40-ae15c86455de">
 
-- The analysis indicates a potential correlation between success and the number of rental units listed in downtown Dallas. However, an interesting observation is that Libby, with only three listings, achieved success, suggesting that the number of listings alone may not be the sole factor influencing performance.
+- The analysis indicates a potential correlation between success and the number of rental units listed. However, an interesting observation is that Libby, with only three listings, achieved success, suggesting that the number of listings alone may not be the sole factor influencing performance.
 
 <img width="464" alt="corellation" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/d9b9bce9-1196-45c1-b326-0beb49a9d4bd">
 
