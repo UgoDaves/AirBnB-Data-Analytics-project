@@ -107,8 +107,11 @@ WHERE host_id IN (108514926,112593570,104309976,211225279,329464978,471536148,30
 67281738,9124824,308850424,23916014,47763153,62395523,378270433,156543716,
 462299527,24921413,314010499,65241900,35999704);
 ```
-This is a barchart of the top ten host with their revenue.
 
 <img width="438" alt="revbyhost" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/1169507d-0592-459d-8d5d-6ead78580c31">
 
 
+<img width="481" alt="avg_bed_baths" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/77226d07-679d-453d-bc30-699a33c2b5f2">
+
+
+<img width="945" alt="listing type" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/28b88a8e-2b83-49b2-8781-50343bb923d0">
