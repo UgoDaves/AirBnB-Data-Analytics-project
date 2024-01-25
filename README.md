@@ -119,14 +119,15 @@ WHERE host_id IN (108514926,112593570,104309976,211225279,329464978,471536148,30
 - I analyzed the average number of bedrooms, beds and baths of the top ten highest earners.
 <img width="481" alt="avg_bed_baths" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/77226d07-679d-453d-bc30-699a33c2b5f2">
 
-- This is a breakdown of the accomdation type and the listing type.
+- This is a breakdown of the accomdation and listing type.
 <img width="945" alt="listing type" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/28b88a8e-2b83-49b2-8781-50343bb923d0">
 
-
+This is a map containing listings of all ten hosts.
 <img width="520" alt="map" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/4811bfae-fd2c-4cbe-ad68-d0093a139398">
 
 ### Summary:
-- In the absence of revenue information within the dataset, I derived an estimate by calculating the product of the minimum stay duration and the corresponding price. This method allowed me to approximate the potential revenue associated with each listing.
-- I imported the outcomes obtained from my SQL queries into Microsoft Power BI to generate visual representations for a more in-depth analysis. This integration allows for a visually intuitive exploration of the data.
-- In my analysis, I was able to filter out the top to highest earning hosts. 
+- The listing types consists of: Condos, Homes, Rental units, serviced apartments and Townhouses. The most popular with 270 listings is rental units. of which 138 where made by Dalls
+  <img width="523" alt="listing_type" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/e5f1b54e-548d-404d-8b2e-d388663998f1">
+<img width="519" alt="dalls_listingtype" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/971c05b2-7943-4859-be40-ae15c86455de">
+
 
