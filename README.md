@@ -115,3 +115,6 @@ WHERE host_id IN (108514926,112593570,104309976,211225279,329464978,471536148,30
 
 
 <img width="945" alt="listing type" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/28b88a8e-2b83-49b2-8781-50343bb923d0">
+
+
+<img width="520" alt="map" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/4811bfae-fd2c-4cbe-ad68-d0093a139398">
