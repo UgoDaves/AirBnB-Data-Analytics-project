@@ -6,8 +6,9 @@ I have been invited to join a real estate company as a data analyst, where our f
 1. How do we make accurate decisions on the best approach to take in order to create successful AirBnB listings? 
 My strategy includes:
 -  Make a list of the top ten most successful hosts, and analyze their overal revenue.
--  Analyzing Districts and areas with the higest turn out.
+-  Analyzing District areas with the higest turn out.
 -  Identify the most popular accomodation category.
+-  Analyze the average number of bedrooms, beds and baths.
 
 ## Prepare Phase
 1. Description of all datasources used:
