@@ -129,7 +129,7 @@ This is a map containing listings of all ten hosts.
 
 
 ### Summary:
-- The listing types consists of: Condos, Homes, Rental units, serviced apartments and Townhouses. The most popular with 270 listings is rental units. Of which 138 where made by Dalls.
+- The available listing types include Condos, Homes, Rental units, Serviced apartments, and Townhouses. Rental units emerge as the most prevalent, totaling 270 listings, with Dallas being the originator of 138 of these listings.
 
 <img width="523" alt="listing_type" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/e5f1b54e-548d-404d-8b2e-d388663998f1"> <img width="519" alt="dalls_listingtype" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/971c05b2-7943-4859-be40-ae15c86455de">
 
