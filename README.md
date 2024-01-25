@@ -10,7 +10,7 @@ My strategy includes:
 -  Identify the most popular accomodation category.
 
 ## Prepare Phase
-1. Discription of all datasources used:
+1. Description of all datasources used:
 The dataset used for this project can be found [here](http://insideairbnb.com/get-the-data/), a website called 'Inside Airbnb' a third-party public data-source. It consists of 18 columns ranging from the listing ID to license. Since it does not include the demograpic details of hosts, it is hard to determine if it consists of any bias. The dataset policy can be accessed [here](http://insideairbnb.com/data-policies)
 
 
