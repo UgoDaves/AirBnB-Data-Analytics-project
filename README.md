@@ -107,7 +107,7 @@ WHERE host_id IN (108514926,112593570,104309976,211225279,329464978,471536148,30
 67281738,9124824,308850424,23916014,47763153,62395523,378270433,156543716,
 462299527,24921413,314010499,65241900,35999704);
 ```
-
+- In the absence of revenue information within the dataset, I derived an estimate by calculating the product of the minimum stay duration and the corresponding price. This method allowed me to approximate the potential revenue associated with each listing. This is the list of the top ten highest earners.
 <img width="438" alt="revbyhost" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/1169507d-0592-459d-8d5d-6ead78580c31">
 
 
@@ -119,5 +119,8 @@ WHERE host_id IN (108514926,112593570,104309976,211225279,329464978,471536148,30
 
 <img width="520" alt="map" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/4811bfae-fd2c-4cbe-ad68-d0093a139398">
 
-### Analysis:
+### Analysis Summary:
+- In the absence of revenue information within the dataset, I derived an estimate by calculating the product of the minimum stay duration and the corresponding price. This method allowed me to approximate the potential revenue associated with each listing.
+- I imported the outcomes obtained from my SQL queries into Microsoft Power BI to generate visual representations for a more in-depth analysis. This integration allows for a visually intuitive exploration of the data.
+- In my analysis, I was able to filter out the top to highest earning hosts. 
 
