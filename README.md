@@ -17,7 +17,7 @@ The dataset used for this project can be found [here](http://insideairbnb.com/ge
 
 
 ## Process Phase
-Documentation of any cleaning or manipulation of Data.
+Documentation of any cleaning or manipulation of Data: I used PowerQuery, Postgresql and Microsoft Power BI.
 #### Import Data into Power Query:
 Utilized Power Query to import the raw dataset, providing a structured environment for subsequent data cleaning.
 
