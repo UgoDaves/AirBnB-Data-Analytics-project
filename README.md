@@ -137,6 +137,7 @@ This is a map containing listings of all ten hosts.
 2. The analysis indicates a potential correlation between success and the number of rental units listed. However, an interesting observation is that Libby, with only three listings, achieved success, suggesting that the number of listings alone may not be the sole factor influencing performance.
 
 <img width="464" alt="corellation" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/d9b9bce9-1196-45c1-b326-0beb49a9d4bd">
+
 3. The dataset did not contain number of bookings per property, I can atell that its a major factor that can determine success, since Libby only had three listings, they were able to make it to the top ten list.
 
 ## Act
