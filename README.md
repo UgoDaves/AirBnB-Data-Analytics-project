@@ -128,7 +128,7 @@ This is a map containing listings of all ten hosts.
 <img width="520" alt="map" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/4811bfae-fd2c-4cbe-ad68-d0093a139398">
 
 
-### Summary:
+### Findings:
 - The available listing types include Condos, Homes, Rental units, Serviced apartments, and Townhouses. Rental units emerge as the most prevalent, totaling 270 listings, with Dalls being the originator of 138 of these listings.
 
 <img width="523" alt="listing_type" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/e5f1b54e-548d-404d-8b2e-d388663998f1"> 
