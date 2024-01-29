@@ -137,5 +137,10 @@ This is a map containing listings of all ten hosts.
 2. The analysis indicates a potential correlation between success and the number of rental units listed. However, an interesting observation is that Libby, with only three listings, achieved success, suggesting that the number of listings alone may not be the sole factor influencing performance.
 
 <img width="464" alt="corellation" src="https://github.com/UgoDaves/AirBnB-Data-Analytics-project/assets/152723434/d9b9bce9-1196-45c1-b326-0beb49a9d4bd">
+3. The dataset did not contain number of bookings per property, I can atell that its a major factor that can determine success, since Libby only had three listings, they were able to make it to the top ten list.
 
-
+## Act
+### Top three recomendation based on my analysis
+1. Given that rental homes are the most sought-after listing type, I recommend the client concentrates on investing in both rental properties and homes. Libby's success with just three homes listed highlights the potential in this dual approach.
+2. For optimal investment, the client should consider properties with an average of 1-3.33 rooms, 1-4.24 baths, and 2-3.67 beds. This range aligns with the averages observed among the top ten hosts.
+3. Since the majority of listings are situated in the downtown area of Dallas, it is advisable for the client to focus their attention on this particular location for their investment endeavors.
